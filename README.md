@@ -1,4 +1,4 @@
-# Hugo + IPFS Starter Kit
+# Hugo Boilerplate
 
 ![Hugo Boilerplate](https://github.com/fleek-tools/hugo-template/assets/74613246/fe3e3d3d-2fd9-46c9-9438-5654f19a5410)
 
